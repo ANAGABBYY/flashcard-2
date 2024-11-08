@@ -21,3 +21,15 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+    'Esporte',
+    'Quando o voleibol estreou nas olimpíadas?',
+    'Em 1964'
+)
+
+criaCartao(
+    'História',
+    'Quem foi o primeiro presidente do Brasil?',
+    'O primeiro presidente do Brasil foi Marechal Deodoro da Fonseca'
+)
